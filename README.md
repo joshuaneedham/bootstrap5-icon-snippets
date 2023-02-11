@@ -1,6 +1,8 @@
 # Bootstrap 5 Icon Snippets
 
-Simple and easy Bootstrap 5 icon snippets. Select your language as HTML 
+Simple and easy Bootstrap 5 Icon snippets. There are over 1,900 icons available free from the Bootstrap team and they are always adding new ones. This extension makes it easy to insert `<i></i>` tags and a simple way to select the icon you would like from the completion suggestions.
+
+To select an icon simply start typing with `bi` and you will a list of all currently available icons. Next tab to the size if you would like to change the icon size, then tab to the color and input your color code or select from the VS Code color chooser which also supports opacity.
 
 ## Features
 

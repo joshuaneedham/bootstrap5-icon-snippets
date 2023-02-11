@@ -3,7 +3,7 @@
   "displayName": "Bootstrap 5 Icon Snippets",
   "description": "A Visual Studio Code extension that generates icons from the Bootstrap 5 icon library",
   "icon": "logo.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "joshua-needham",
   "license": "MIT",
   "repository": {

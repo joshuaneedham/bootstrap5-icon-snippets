@@ -10,7 +10,7 @@ Here is an example of a snippet:
 
 ```<i class="bi bi-code" style="font-size: 2em; color: #007bff;"></i>```
 
-- style attribute includes default `font-size: 2em;` and `color: #007bff;` that can be tabbed through to change when adding an icon to your page.
+- `style=` attribute includes default `font-size: 2em;` and `color: #007bff;` that can be tabbed through to change when adding an icon to your page.
 
 
 ## Requirements

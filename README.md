@@ -7,7 +7,8 @@ Simple and easy Bootstrap 5 icon snippets. Select your language as HTML
 Nearly 2k icons provided by the Bootstrap team have been included in this extension.
 
 Here is an example of a snippet:
-`<i class="bi bi-code" style="font-size: 2em; color: #007bff;"></i>`
+
+```<i class="bi bi-code" style="font-size: 2em; color: #007bff;"></i>```
 
 - style attribute includes default `font-size: 2em;` and `color: #007bff;` that can be tabbed through to change when adding an icon to your page.
 

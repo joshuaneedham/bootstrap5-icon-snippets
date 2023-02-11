@@ -39,5 +39,5 @@ Selected language mode for the file you are working on needs to be `HTML` initia
 
 Initial release of the extension.
 - Bootstrap [v5.2.3](https://getbootstrap.com/)
-- Bootstrap Icons [v1.10.13](https://github.com/twbs/bootstrap/releases/tag/v1.10.3)
+- Bootstrap Icons [v1.10.13](https://icons.getbootstrap.com)
 

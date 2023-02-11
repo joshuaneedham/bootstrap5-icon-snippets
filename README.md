@@ -14,7 +14,10 @@ Here is an example of a snippet:
 - `style=` attribute includes default `font-size: 2em;` and `color: #007bff;` that can be tabbed through to change when adding an icon to your page.
 
 ## Instructions
-To select an icon simply start typing with `bi` and you will a list of all currently available icons. Next tab to the size if you would like to change the icon size, then tab to the color and input your color code or select from the VS Code color chooser which also supports opacity.
+To select an icon simply start by typing `bi` and you will get a list of all currently available icons. 
+Next tab to the size if you would like to change the icon size.
+Lastly tab to the color and either input your color code or select from the VS Code color chooser which also supports opacity.
+
 ## Requirements
 - VS Code [^1.75.0](https://code.visualstudio.com)
 - Bootstrap [v5.2.3](https://getbootstrap.com/)

@@ -24,7 +24,7 @@ Lastly tab to the color and either input your color code or select from the VS C
 
 - VS Code [^1.75.0](https://code.visualstudio.com)
 - Bootstrap [v5.2.3](https://getbootstrap.com/)
-- Bootstrap Icons [v1.10.5](https://github.com/twbs/icons/releases/tag/v1.10.5)
+- Bootstrap Icons [v1.10.13](https://github.com/twbs/icons/releases/tag/v1.10.5)
 
 ## Extension Settings
 
@@ -35,6 +35,15 @@ None
 Selected language mode for the file you are working on needs to be `HTML` initially. This extension has been tested with HTML and ERB files but should work fine in other languages.
 
 ## Release Notes
+
+### 1.0.0
+
+Refactored snippet function to handle JS Object instead of mapping an array for searching through the icon list.
+Refactored Icon Selection variable to a JavaScript Object module import from a variable array for better performance.
+Insured current icon list is inline with the latest version of Bootstrap Icons v1.10.5
+
+- Bootstrap [v5.2.3](https://getbootstrap.com/)
+- Bootstrap Icons [v1.10.15](https://icons.getbootstrap.com)
 
 ### 0.0.1
 
